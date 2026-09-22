@@ -1,6 +1,6 @@
 # html.pi
 Its a new webstite that you can see 1 millon of pi digits
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
